@@ -92,11 +92,11 @@ Tags: Dark, coming soon, under construction, black, one column
 }
 @font-face {
   font-family: 'icomoon';
-  src:url('fonts/icomoon.eot?-t8ep4r');
-  src:url('fonts/icomoon.eot?#iefix-t8ep4r') format('embedded-opentype'),
-      url('fonts/icomoon.ttf?-t8ep4r') format('truetype'),
-      url('fonts/icomoon.woff?-t8ep4r') format('woff'),
-      url('fonts/icomoon.svg?-t8ep4r#icomoon') format('svg');
+  src:url('./fonts/icomoon.eot?-t8ep4r');
+  src:url('./fonts/icomoon.eot?#iefix-t8ep4r') format('embedded-opentype'),
+      url('./fonts/icomoon.ttf?-t8ep4r') format('truetype'),
+      url('./fonts/icomoon.woff?-t8ep4r') format('woff'),
+      url('./fonts/icomoon.svg?-t8ep4r#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -130,7 +130,7 @@ body{
 /* General  */
 
 a, a:hover, a:focus{
-    color:#fff;
+    color:#000;
 }
 a:hover{}
 a:focus{
