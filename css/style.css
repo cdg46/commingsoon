@@ -238,6 +238,7 @@ input {
 
 .MT40 {
     color: #fff;margin-top:40px;
+	text-shadow:2px 1px #000;
 }
 #contact p {
     color: #fff;
