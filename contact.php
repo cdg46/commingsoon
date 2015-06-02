@@ -7,9 +7,9 @@
 	$formcontent="Name: $name\n\nEmail: $email\n\nMessage: $message";
 	
 	// Enter the email where you want to receive the notification when someone submit form
-	$recipient = "admin@nimportqueqoui.idf";
+	$recipient = "contact@cauvaldor.fr";
 	
-	$subject = "See Soon! Contact Form";
+	$subject = "Contact depuis le site";
 	
 	$mailheader = "From: $email\\r\\n";
 	$mailheader .= "Reply-To: $email\\r\\n";
@@ -23,7 +23,7 @@
 	
 	<script language="javascript" type="text/javascript">
 		alert('Merci pour votre message. Nous traiterons au plus vite celui-ci.');
-		window.location = "../index.html";
+		window.location = "/";
 	</script>
 	
 <?php
@@ -34,7 +34,7 @@
 
     <script language="javascript" type="text/javascript">
 		alert('Votre message n\'a pas pu être envoyé.');
-		window.location = "../index.html";
+		window.location = "/";
     </script>
 	
 <?php
