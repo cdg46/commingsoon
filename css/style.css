@@ -2,6 +2,95 @@
 Author: EGrappler.com
 Tags: Dark, coming soon, under construction, black, one column
 */
+@font-face {
+  font-family: 'Smoolthan-Bold';
+  src: url('./fonts/Smoolthan-Bold.eot');
+  src: url('./fonts/Smoolthan-Bold.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Bold.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Bold.woff') format('woff'),
+       url('./fonts/Smoolthan-Bold.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Bold.svg#Smoolthan-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan-Bold-Italic';
+  src: url('./fonts/Smoolthan-Bold-Italic.eot');
+  src: url('./fonts/Smoolthan-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Bold-Italic.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Bold-Italic.woff') format('woff'),
+       url('./fonts/Smoolthan-Bold-Italic.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Bold-Italic.svg#Smoolthan-Bold-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan-Medium-Italic';
+  src: url('./fonts/Smoolthan-Medium-Italic.eot');
+  src: url('./fonts/Smoolthan-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Medium-Italic.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Medium-Italic.woff') format('woff'),
+       url('./fonts/Smoolthan-Medium-Italic.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Medium-Italic.svg#Smoolthan-Medium-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan-Medium';
+  src: url('./fonts/Smoolthan-Medium.eot');
+  src: url('./fonts/Smoolthan-Medium.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Medium.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Medium.woff') format('woff'),
+       url('./fonts/Smoolthan-Medium.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Medium.svg#Smoolthan-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan-Regular-Italic';
+  src: url('./fonts/Smoolthan-Regular-Italic.eot');
+  src: url('./fonts/Smoolthan-Regular-Italic.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Regular-Italic.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Regular-Italic.woff') format('woff'),
+       url('./fonts/Smoolthan-Regular-Italic.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Regular-Italic.svg#Smoolthan-Regular-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan';
+  src: url('./fonts/Smoolthan.eot');
+  src: url('./fonts/Smoolthan.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan.woff2') format('woff2'),
+       url('./fonts/Smoolthan.woff') format('woff'),
+       url('./fonts/Smoolthan.ttf') format('truetype'),
+       url('./fonts/Smoolthan.svg#Smoolthan') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan-Thin-Italic';
+  src: url('./fonts/Smoolthan-Thin-Italic.eot');
+  src: url('./fonts/Smoolthan-Thin-Italic.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Thin-Italic.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Thin-Italic.woff') format('woff'),
+       url('./fonts/Smoolthan-Thin-Italic.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Thin-Italic.svg#Smoolthan-Thin-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Smoolthan-Thin';
+  src: url('./fonts/Smoolthan-Thin.eot');
+  src: url('./fonts/Smoolthan-Thin.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Smoolthan-Thin.woff2') format('woff2'),
+       url('./fonts/Smoolthan-Thin.woff') format('woff'),
+       url('./fonts/Smoolthan-Thin.ttf') format('truetype'),
+       url('./fonts/Smoolthan-Thin.svg#Smoolthan-Thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 body{
     background:#202020;
