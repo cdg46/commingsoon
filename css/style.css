@@ -4,7 +4,7 @@ Tags: Dark, coming soon, under construction, black, one column
 */
 @font-face {
   font-family: 'Smoolthan-Bold';
-  src: url('./fonts/Smoolthan-Bold.eot');
+  src: url('../fonts/Smoolthan-Bold.eot');
   src: url('./fonts/Smoolthan-Bold.eot?#iefix') format('embedded-opentype'),
        url('./fonts/Smoolthan-Bold.woff2') format('woff2'),
        url('./fonts/Smoolthan-Bold.woff') format('woff'),
@@ -92,11 +92,11 @@ Tags: Dark, coming soon, under construction, black, one column
 }
 @font-face {
   font-family: 'icomoon';
-  src:url('./fonts/icomoon.eot?-t8ep4r');
-  src:url('./fonts/icomoon.eot?#iefix-t8ep4r') format('embedded-opentype'),
-      url('./fonts/icomoon.ttf?-t8ep4r') format('truetype'),
-      url('./fonts/icomoon.woff?-t8ep4r') format('woff'),
-      url('./fonts/icomoon.svg?-t8ep4r#icomoon') format('svg');
+  src:url('../fonts/icomoon.eot?-t8ep4r');
+  src:url('../fonts/icomoon.eot?#iefix-t8ep4r') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?-t8ep4r') format('truetype'),
+      url('../fonts/icomoon.woff?-t8ep4r') format('woff'),
+      url('../fonts/icomoon.svg?-t8ep4r#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -184,7 +184,7 @@ h6{
     position: relative;
     width: 70px; 
     height: 40.41px;
-    background-color: #05c3f9 ;
+    background-color: #A8093D;
     margin: 90px auto 140px auto;
     box-shadow: 0 0 10px rgba(0,0,0,0.35);
 }
@@ -235,9 +235,10 @@ h6{
 .hexagon i { font-size: 50px;
     color: #fff;
     position: absolute;
-    left: 35%;
+    left: 20%;
     z-index: 10;
     top: -13%;
+    text-shadow: none;
 }
 
 #header .main-head {}
