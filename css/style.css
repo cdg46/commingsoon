@@ -95,7 +95,7 @@ Tags: Dark, coming soon, under construction, black, one column
 body{
     background:#202020;
     color:#000;
-    font:18px/28px 'Raleway', sans-serif;
+    font:18px/28px 'Smoolthan', sans-serif;
     font-weight:300;
     text-shadow: 2px 1px #fff;
 }
@@ -110,7 +110,7 @@ a:focus{
     outline:none;
 }
 h1, h2, h3, h4, h5, h6{
-    font-family:'Coustard', sans-serif;
+    font-family:'Smoolthan-Bold', sans-serif;
     margin:0;
     padding:0;
     font-weight:300;
