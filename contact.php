@@ -7,7 +7,7 @@
 	$formcontent="Name: $name\n\nEmail: $email\n\nMessage: $message";
 	
 	// Enter the email where you want to receive the notification when someone submit form
-	$recipient = "admin@egrappler.com";
+	$recipient = "admin@nimportqueqoui.idf";
 	
 	$subject = "See Soon! Contact Form";
 	
@@ -22,7 +22,7 @@
 ?>
 	
 	<script language="javascript" type="text/javascript">
-		alert('Thank you for you e-mail. We will contact you shortly.');
+		alert('Merci pour votre message. Nous traiterons au plus vite celui-ci.');
 		window.location = "../index.html";
 	</script>
 	
@@ -33,7 +33,7 @@
 ?>
 
     <script language="javascript" type="text/javascript">
-		alert('Message not sent.');
+		alert('Votre message n\'a pas pu être envoyé.');
 		window.location = "../index.html";
     </script>
 	

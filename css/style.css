@@ -5,88 +5,88 @@ Tags: Dark, coming soon, under construction, black, one column
 @font-face {
   font-family: 'Smoolthan-Bold';
   src: url('../fonts/Smoolthan-Bold.eot');
-  src: url('./fonts/Smoolthan-Bold.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Bold.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Bold.woff') format('woff'),
-       url('./fonts/Smoolthan-Bold.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Bold.svg#Smoolthan-Bold') format('svg');
+  src: url('../fonts/Smoolthan-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Bold.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Bold.woff') format('woff'),
+       url('../fonts/Smoolthan-Bold.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Bold.svg#Smoolthan-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan-Bold-Italic';
-  src: url('./fonts/Smoolthan-Bold-Italic.eot');
-  src: url('./fonts/Smoolthan-Bold-Italic.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Bold-Italic.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Bold-Italic.woff') format('woff'),
-       url('./fonts/Smoolthan-Bold-Italic.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Bold-Italic.svg#Smoolthan-Bold-Italic') format('svg');
+  src: url('../fonts/Smoolthan-Bold-Italic.eot');
+  src: url('../fonts/Smoolthan-Bold-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Bold-Italic.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Bold-Italic.woff') format('woff'),
+       url('../fonts/Smoolthan-Bold-Italic.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Bold-Italic.svg#Smoolthan-Bold-Italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan-Medium-Italic';
-  src: url('./fonts/Smoolthan-Medium-Italic.eot');
-  src: url('./fonts/Smoolthan-Medium-Italic.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Medium-Italic.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Medium-Italic.woff') format('woff'),
-       url('./fonts/Smoolthan-Medium-Italic.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Medium-Italic.svg#Smoolthan-Medium-Italic') format('svg');
+  src: url('../fonts/Smoolthan-Medium-Italic.eot');
+  src: url('../fonts/Smoolthan-Medium-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Medium-Italic.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Medium-Italic.woff') format('woff'),
+       url('../fonts/Smoolthan-Medium-Italic.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Medium-Italic.svg#Smoolthan-Medium-Italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan-Medium';
-  src: url('./fonts/Smoolthan-Medium.eot');
-  src: url('./fonts/Smoolthan-Medium.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Medium.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Medium.woff') format('woff'),
-       url('./fonts/Smoolthan-Medium.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Medium.svg#Smoolthan-Medium') format('svg');
+  src: url('../fonts/Smoolthan-Medium.eot');
+  src: url('../fonts/Smoolthan-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Medium.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Medium.woff') format('woff'),
+       url('../fonts/Smoolthan-Medium.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Medium.svg#Smoolthan-Medium') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan-Regular-Italic';
-  src: url('./fonts/Smoolthan-Regular-Italic.eot');
-  src: url('./fonts/Smoolthan-Regular-Italic.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Regular-Italic.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Regular-Italic.woff') format('woff'),
-       url('./fonts/Smoolthan-Regular-Italic.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Regular-Italic.svg#Smoolthan-Regular-Italic') format('svg');
+  src: url('../fonts/Smoolthan-Regular-Italic.eot');
+  src: url('../fonts/Smoolthan-Regular-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Regular-Italic.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Regular-Italic.woff') format('woff'),
+       url('../fonts/Smoolthan-Regular-Italic.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Regular-Italic.svg#Smoolthan-Regular-Italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan';
-  src: url('./fonts/Smoolthan.eot');
-  src: url('./fonts/Smoolthan.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan.woff2') format('woff2'),
-       url('./fonts/Smoolthan.woff') format('woff'),
-       url('./fonts/Smoolthan.ttf') format('truetype'),
-       url('./fonts/Smoolthan.svg#Smoolthan') format('svg');
+  src: url('../fonts/Smoolthan.eot');
+  src: url('../fonts/Smoolthan.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan.woff2') format('woff2'),
+       url('../fonts/Smoolthan.woff') format('woff'),
+       url('../fonts/Smoolthan.ttf') format('truetype'),
+       url('../fonts/Smoolthan.svg#Smoolthan') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan-Thin-Italic';
-  src: url('./fonts/Smoolthan-Thin-Italic.eot');
-  src: url('./fonts/Smoolthan-Thin-Italic.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Thin-Italic.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Thin-Italic.woff') format('woff'),
-       url('./fonts/Smoolthan-Thin-Italic.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Thin-Italic.svg#Smoolthan-Thin-Italic') format('svg');
+  src: url('../fonts/Smoolthan-Thin-Italic.eot');
+  src: url('../fonts/Smoolthan-Thin-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Thin-Italic.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Thin-Italic.woff') format('woff'),
+       url('../fonts/Smoolthan-Thin-Italic.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Thin-Italic.svg#Smoolthan-Thin-Italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Smoolthan-Thin';
-  src: url('./fonts/Smoolthan-Thin.eot');
-  src: url('./fonts/Smoolthan-Thin.eot?#iefix') format('embedded-opentype'),
-       url('./fonts/Smoolthan-Thin.woff2') format('woff2'),
-       url('./fonts/Smoolthan-Thin.woff') format('woff'),
-       url('./fonts/Smoolthan-Thin.ttf') format('truetype'),
-       url('./fonts/Smoolthan-Thin.svg#Smoolthan-Thin') format('svg');
+  src: url('../fonts/Smoolthan-Thin.eot');
+  src: url('../fonts/Smoolthan-Thin.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Smoolthan-Thin.woff2') format('woff2'),
+       url('../fonts/Smoolthan-Thin.woff') format('woff'),
+       url('../fonts/Smoolthan-Thin.ttf') format('truetype'),
+       url('../fonts/Smoolthan-Thin.svg#Smoolthan-Thin') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -124,7 +124,6 @@ body{
     color:rgb(128,140,155);
     font:18px/28px 'Smoolthan', sans-serif;
     font-weight:300;
-    text-shadow: 2px 1px #fff;
 }
 
 /* General  */
@@ -142,6 +141,7 @@ h1, h2, h3, h4, h5, h6{
     padding:0;
     font-weight:300;
 	color:rgb(168,9,61);
+    text-align:center;
 }
 h1{
     font-size:72px;
@@ -151,14 +151,19 @@ h2{
 }
 h3{
     font-size:36px;
+    font-family:'Smoolthan', sans-serif;
 }
 h4{
+    font-family:'Smoolthan', sans-serif;
     font-size:30px;
 }
 h5{
+    font-family:'Smoolthan', sans-serif;
     font-size:24px;
+	color:#fff;
 }
 h6{
+    font-family:'Smoolthan', sans-serif;
     font-size:18px;
 }
 
@@ -291,7 +296,6 @@ ul.countdown li p{
 /* Main Heading Style Starts */
 
 .main-head{
-    text-align:center;
     padding:0 0 40px;
 }
 .main-head h2, .main-head p{}
@@ -301,11 +305,17 @@ ul.countdown li p{
 .main-head p{
     font-size:24px;
     line-height:36px;
+    text-align:justify;
+    text-justify: inter-word;
 }
         
 /* Services */
 
-#services{}
+#services{
+/*    text-shadow: 1px 1px 1px 1px #fff;*/
+    text-shadow: 1px 1px 0 #fff;
+    color: #fff;
+}
 .sblock{
     border:1px solid transparent;
      -webkit-transition: all 0.5s ease;
@@ -313,13 +323,15 @@ ul.countdown li p{
          -o-transition: all 0.5s ease;
 }
 .sblock:hover {
-    border:1px solid rgba(5, 195, 249, 0.5);
-    background:rgba(5, 195, 249, 0.5);
+    border:1px solid rgba(125, 140, 155, 0.5);
+    background:rgba(128,140,155, 0.5);
 }
 
-#services p { font-size:16px; }
+#services p {
+    font-size:16px;
+}
 .services-overlay{
-    background:rgba(0,0,0,0.2);
+    background:rgba(0,0,0,0.6);
     padding:70px 0;
 }
 #services-blocks{}
@@ -342,6 +354,7 @@ ul.countdown li p{
     padding:20px 0;
 }
 
+.services-overlay h5{text-shadow:0 0 0 #fff;}
 /* Contact  */
 
 input {
@@ -443,12 +456,12 @@ input {
 
 /* Contact Style Starts */
 
-    #contact h3, .address, #contact-form .form-group{
-        text-align:center;
-    }
-    #contact-area{
-        padding-bottom:20px;
-    }
+#contact h3, .address, #contact-form .form-group{
+    text-align:center;
+}
+#contact-area{
+    padding-bottom:20px;
+}
 
 /* Footer Style Starts */
 
