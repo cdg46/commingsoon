@@ -143,16 +143,16 @@ h1, h2, h3, h4, h5, h6{
 	color:rgb(168,9,61);
     text-align:center;
 }
-h1{
+/*h1{
     font-size:72px;
-}
+}*/
 h2{
     font-size:40px;
 }
-h3{
+/*h3{
     font-size:36px;
     font-family:'Smoolthan', sans-serif;
-}
+}*/
 h4{
     font-family:'Smoolthan', sans-serif;
     font-size:30px;
@@ -162,10 +162,10 @@ h5{
     font-size:24px;
 	color:#fff;
 }
-h6{
+/*h6{
     font-family:'Smoolthan', sans-serif;
     font-size:18px;
-}
+}*/
 
 .loader {
     position:fixed;
@@ -179,7 +179,6 @@ h6{
 
 /* Header  */
 
-/*#header{}*/
 .header-overlay{
     padding:30px 0;    
     background:rgba(255,255,255,0.9);    
@@ -229,14 +228,6 @@ h6{
     background: inherit;
 }
 
-.logo{
-    text-align:center;
-    padding:30px 0;
-    background:#05c3f9;
-    width:12%;
-    margin:0 auto;
-}
-
 .hexagon i { font-size: 50px;
     color: #fff;
     position: absolute;
@@ -255,44 +246,6 @@ h6{
 #header .main-head h4{
     line-height:40px;
 }
-    
-/* Countdown  */    
-    
-#countdown-area{
-    padding:40px 0;
-    margin:0 0 40px;
-}
-ul.countdown{
-    list-style:none;
-    margin:0;
-    padding:0;
-    display:block;
-    text-align:center;
-}
-ul.countdown li{
-    display:inline-block;
-    margin:0 20px;
-    padding:0;
-}
-ul.countdown li span{
-    font-family:'Coustard', sans-serif;
-    width:100px;
-    display:block;
-    font-size:48px;
-}
-ul.countdown li.seperator{
-    font-size:80px;
-    line-height:70px;
-    vertical-align:top;
-}
-ul.countdown li p{
-    color: rgba(255,255,255,0.5);
-    font-size: 18px;
-    text-transform:capitalize;
-    margin:0;
-    padding:15px 0 30px 0;
-}
-
 /* Main Heading Style Starts */
 
 .main-head{
@@ -312,15 +265,14 @@ ul.countdown li p{
 /* Services */
 
 #services{
-    /*text-shadow: 1px 1px 1px 1px #fff;*/
     text-shadow: 1px 1px 0 #fff;
     color: #fff;
 }
 .sblock{
     border:1px solid transparent;
      -webkit-transition: all 0.5s ease;
-       -moz-transition: all 0.5s ease;
-         -o-transition: all 0.5s ease;
+        -moz-transition: all 0.5s ease;
+          -o-transition: all 0.5s ease;
 }
 .sblock:hover {
     border:1px solid rgba(125, 140, 155, 0.5);
@@ -430,30 +382,6 @@ input {
 }
 
 @media (max-width: 767px) {
-
-/* Countdown Style Starts */
-
-    ul.countdown li{
-        display:inline-block;
-        margin:5px;
-        padding:0;
-    }
-    ul.countdown li span{
-        width:100px;
-        height:100px;
-        display:block;
-        font-size:48px;
-        font-weight:300;
-        line-height:100px;
-        border:2px solid #fff;
-        -webkit-border-radius:50%;
-           -moz-border-radius:50%;
-            border-radius:50%;
-    }
-    ul.countdown li p{
-        padding:15px 0;
-    }
-
 	/* Contact Style Starts */
 
 	#contact h3, .address, #contact-form .form-group{
