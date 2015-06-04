@@ -179,7 +179,7 @@ h6{
 
 /* Header  */
 
-#header{}
+/*#header{}*/
 .header-overlay{
     padding:30px 0;    
     background:rgba(255,255,255,0.9);    
@@ -311,11 +311,11 @@ ul.countdown li p{
         
 /* Services */
 
-#services{
+/*#services{*/
 /*    text-shadow: 1px 1px 1px 1px #fff;*/
-    text-shadow: 1px 1px 0 #fff;
+    /*text-shadow: 1px 1px 0 #fff;
     color: #fff;
-}
+}*/
 .sblock{
     border:1px solid transparent;
      -webkit-transition: all 0.5s ease;
@@ -454,16 +454,16 @@ input {
         padding:15px 0;
     }
 
-/* Contact Style Starts */
+	/* Contact Style Starts */
 
-#contact h3, .address, #contact-form .form-group{
-    text-align:center;
-}
-#contact-area{
-    padding-bottom:20px;
-}
+	#contact h3, .address, #contact-form .form-group{
+		text-align:center;
+	}
+	#contact-area{
+		padding-bottom:20px;
+	}
 
-/* Footer Style Starts */
+	/* Footer Style Starts */
 
     #footer ul.sm-links li a span{
         width:45px;
@@ -474,4 +474,53 @@ input {
     .copyright{
         font-size:16px;
     }
+}
+
+@media (min-width: 1200px){
+	#header{
+		background:url(../images/3.jpg) no-repeat center center;
+		-webkit-background-size: cover;
+		   -moz-background-size: cover;
+			 -o-background-size: cover;
+		background-size: cover;
+	}
+	#services{
+		background:url(../images/3.jpg) no-repeat center center;
+		-webkit-background-size: cover;
+		   -moz-background-size: cover;
+			 -o-background-size: cover;
+		background-size: cover;
+		text-shadow: 1px 1px 0 #fff;
+		color: #fff;
+	}
+}
+@media (min-width: 992px) and (max-width: 1200px){
+	#header{
+		background:url(../images/3-1200p.jpg) repeat-y center center;
+	}
+	#services{
+		background:url(../images/3-1200p.jpg) repeat-y center center;
+		text-shadow: 1px 1px 0 #fff;
+		color: #fff;
+	}
+}
+@media (max-width: 992px) and (min-width: 768px){
+	#header{
+		background:url(../images/3-992p.jpg) repeat-y center center;
+	}
+	#services{
+		background:url(../images/3-992p.jpg) repeat-y center center;
+		text-shadow: 1px 1px 0 #fff;
+		color: #fff;
+	}
+}
+@media (max-width: 768px){
+	#header{
+		background:url(../images/3-768p.jpg) repeat-y center center;
+	}
+	#services{
+		background:url(../images/3-768p.jpg) repeat-y center center;
+		text-shadow: 1px 1px 0 #fff;
+		color: #fff;
+	}
 }
