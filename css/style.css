@@ -311,11 +311,11 @@ ul.countdown li p{
         
 /* Services */
 
-/*#services{*/
-/*    text-shadow: 1px 1px 1px 1px #fff;*/
-    /*text-shadow: 1px 1px 0 #fff;
+#services{
+    /*text-shadow: 1px 1px 1px 1px #fff;*/
+    text-shadow: 1px 1px 0 #fff;
     color: #fff;
-}*/
+}
 .sblock{
     border:1px solid transparent;
      -webkit-transition: all 0.5s ease;
@@ -477,50 +477,30 @@ input {
 }
 
 @media (min-width: 1200px){
-	#header{
-		background:url(../images/3.jpg) no-repeat center center;
-		-webkit-background-size: cover;
-		   -moz-background-size: cover;
-			 -o-background-size: cover;
-		background-size: cover;
-	}
+	#header,
 	#services{
 		background:url(../images/3.jpg) no-repeat center center;
 		-webkit-background-size: cover;
 		   -moz-background-size: cover;
 			 -o-background-size: cover;
 		background-size: cover;
-		text-shadow: 1px 1px 0 #fff;
-		color: #fff;
 	}
 }
 @media (min-width: 992px) and (max-width: 1200px){
-	#header{
-		background:url(../images/3-1200p.jpg) repeat-y center center;
-	}
+	#header,
 	#services{
 		background:url(../images/3-1200p.jpg) repeat-y center center;
-		text-shadow: 1px 1px 0 #fff;
-		color: #fff;
 	}
 }
 @media (max-width: 992px) and (min-width: 768px){
-	#header{
-		background:url(../images/3-992p.jpg) repeat-y center center;
-	}
+	#header,
 	#services{
 		background:url(../images/3-992p.jpg) repeat-y center center;
-		text-shadow: 1px 1px 0 #fff;
-		color: #fff;
 	}
 }
 @media (max-width: 768px){
-	#header{
-		background:url(../images/3-768p.jpg) repeat-y center center;
-	}
+	#header,
 	#services{
 		background:url(../images/3-768p.jpg) repeat-y center center;
-		text-shadow: 1px 1px 0 #fff;
-		color: #fff;
 	}
 }
