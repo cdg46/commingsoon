@@ -8,8 +8,8 @@ $(function() {
 	});
 
 	// Backstretchs
-	$("#header").backstretch("images/3.jpg");
-	$("#services").backstretch("images/3.jpg");
+	$("#header").backstretch("images/2.jpg");
+	$("#services").backstretch("images/2.jpg");
 		
     
 });
